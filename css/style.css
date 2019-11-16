@@ -21,8 +21,8 @@ body {
 #user-select {
   padding: 4px 10px;
   margin-top: 2rem;
-  border: 1px solid gray;
-  border-radius: 35px;
+  /*border: 1px solid gray;
+  border-radius: 35px;*/
 }
 
 #link-to-badges {
